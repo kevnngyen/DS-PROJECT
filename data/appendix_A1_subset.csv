@@ -1,0 +1,41 @@
+Group,Category,Employment,AIOE,Potential_complementarity,CAIOE,High_exposure_low_comp_pct,High_exposure_high_comp_pct,Low_exposure_pct
+"All","Total",13943200,6.0758,0.5953,5.3231,30,27,43
+
+"Highest level of education","High school or less",4751200,5.8867,0.5692,5.2349,26,13,61
+"Highest level of education","Apprenticeship or trades certificate or diploma",1450400,5.8141,0.6052,5.0680,15,12,73
+"Highest level of education","College, CEGEP or other certificate or diploma below bachelor's degree",3679500,6.1146,0.5944,5.3629,36,26,38
+"Highest level of education","Bachelor's degree",2800700,6.3249,0.6162,5.4764,36,47,17
+"Highest level of education","Graduate degree",1261400,6.4227,0.6380,5.4918,29,61,10
+
+"Field of study (highest level)","High school or less",4751200,5.8867,0.5692,5.2349,26,13,61
+"Field of study (highest level)","Some postsecondary below bachelor's degree",5129900,6.0296,0.5975,4.5294,30,22,48
+"Field of study (highest level)","Business and administration (sub-bachelor)",1075300,6.3026,0.5687,5.6073,56,24,20
+"Field of study (highest level)","Trades etc., services, natural resources and conservation (sub-bachelor)",991900,5.8747,0.5952,5.1478,19,13,68
+"Field of study (highest level)","Construction trades and mechanic/repair techs (sub-bachelor)",786800,5.7282,0.6422,4.8855,6,12,82
+"Field of study (highest level)","Health care (sub-bachelor)",784900,5.9741,0.6062,5.2041,21,25,54
+"Field of study (highest level)","Engineering and engineering technology (sub-bachelor)",407100,6.0475,0.6157,5.2382,23,30,47
+"Field of study (highest level)","Arts and humanities (sub-bachelor)",330400,6.0925,0.5743,5.4013,41,22,37
+"Field of study (highest level)","Social and behavioural sciences (sub-bachelor)",269800,6.1189,0.5953,5.3615,30,43,27
+"Field of study (highest level)","Mathematics and computer and information sciences (sub-bachelor)",216700,6.2733,0.5750,5.5625,56,20,24
+"Field of study (highest level)","Science and science technology (sub-bachelor)",109500,6.0495,0.5926,5.3087,34,23,43
+"Field of study (highest level)","Legal professions and studies (sub-bachelor)",80300,6.3578,0.5435,5.7395,72,12,16
+"Field of study (highest level)","Education and teaching (sub-bachelor)",77200,6.1270,0.6225,5.2851,23,52,25
+
+"Field of study (highest level)","Bachelor's degree or higher (all fields)",4062100,6.3552,0.6230,4.6072,34,52,14
+"Field of study (highest level)","Business and administration (bachelor+)",797100,6.4447,0.5981,5.6386,52,36,12
+"Field of study (highest level)","Social and behavioural sciences (bachelor+)",619900,6.3561,0.6069,5.5332,42,42,16
+"Field of study (highest level)","Education and teaching (bachelor+)",474100,6.3763,0.6719,5.3417,10,84,6
+"Field of study (highest level)","Arts and humanities (bachelor+)",443300,6.2917,0.6047,5.4812,39,42,19
+"Field of study (highest level)","Engineering and engineering technology (bachelor+)",430000,6.3772,0.6196,5.5103,29,56,15
+"Field of study (highest level)","Health care (bachelor+)",397200,6.1986,0.6758,5.1821,8,74,18
+"Field of study (highest level)","Science and science technology (bachelor+)",384900,6.2881,0.6220,5.4261,30,50,20
+"Field of study (highest level)","Mathematics and computer and information sciences (bachelor+)",217400,6.4472,0.5813,5.6964,66,24,10
+"Field of study (highest level)","Trades etc., services, natural resources and conservation (bachelor+)",211500,6.3228,0.6330,5.4205,24,59,17
+"Field of study (highest level)","Legal professions and studies (bachelor+)",86700,6.4908,0.6510,5.5042,24,67,9
+"Field of study (highest level)","Construction trades and mechanic/repair techs (bachelor+ – not available)",0,,,"",,, 
+
+"Age","18 to 24 years",1818200,5.8816,0.5621,5.2522,30,10,60
+"Age","25 to 34 years",3247300,6.0952,0.6008,5.3245,31,28,41
+"Age","35 to 44 years",3160700,6.1342,0.6055,5.3435,30,33,37
+"Age","45 to 54 years",3351000,6.1096,0.6001,5.3378,29,31,40
+"Age","55 to 64 years",2366000,6.0725,0.5927,5.3273,30,27,43
